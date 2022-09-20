@@ -1,4 +1,4 @@
-## [2022-03-21 Meetup Event Details](https://www.meetup.com/newcastle-upon-tyne-data-science-meetup/events/281350836/)
+## [2022-03-24 Meetup Event Details](https://www.meetup.com/newcastle-upon-tyne-data-science-meetup/events/281350836/)
 
 ### Schedule
 
