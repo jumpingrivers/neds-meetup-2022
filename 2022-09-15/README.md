@@ -1,3 +1,5 @@
+## [2022-09-15 Meetup Event Details](https://www.meetup.com/newcastle-upon-tyne-data-science-meetup/events/287120959/)
+
 **1700--1800h**: (Pre-event Workshop) [Georgia Atkinson](https://www.linkedin.com/in/georgia-atkinson-080858197/)
 
 **1800--1830h**: Refreshments
