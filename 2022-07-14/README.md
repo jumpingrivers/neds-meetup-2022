@@ -1,5 +1,7 @@
 ## [2022-07-24 Meetup Event Details](https://www.meetup.com/newcastle-upon-tyne-data-science-meetup/events/286235478/)
 
+### Schedule
+
 **1730--1830h**: (Pre-event Workshop) Plotting in Python: The Basics
 
 **1800--1830h**: Refreshments
@@ -7,6 +9,8 @@
 **1830--1900h**: Myles Mitchell, Jumping Rivers Ltd
 
 **1915--2000h**: Penny Pegman, Department for Work and Pensions
+
+### Talks
 
 **Jack Walton, Data Scientist & Trainer @ Jumping Rivers**
 

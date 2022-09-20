@@ -1,10 +1,14 @@
 ## [2022-03-21 Meetup Event Details](https://www.meetup.com/newcastle-upon-tyne-data-science-meetup/events/281350836/)
 
+### Schedule
+
 **1800--1830h**: Refreshments
 
 **1830--1900h**: Laura Wadkin, Newcastle University
 
 **1915--2000h**: Jonny Law, The National Innovation Centre for Data (NICD)
+
+### Talks
 
 **Laura Wadkin, Research Associate @ Newcastle University**
 

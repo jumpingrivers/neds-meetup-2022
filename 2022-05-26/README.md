@@ -1,5 +1,7 @@
 ## [2022-05-26 Meetup Event Details](https://www.meetup.com/newcastle-upon-tyne-data-science-meetup/events/281350842/)
 
+### Schedule
+
 **1700--1800h**: (Pre-event Workshop) R Markdown: The Basics
 
 **1800--1830h**: Refreshments
@@ -7,6 +9,8 @@
 **1830--1900h**: Andrew Patterson, Jumping Rivers
 
 **1915--2000h**: Michael Reeve, Hiscox
+
+### Talks
 
 **Theo Roe, Data Scientist & Trainer @ Jumping Rivers**
 

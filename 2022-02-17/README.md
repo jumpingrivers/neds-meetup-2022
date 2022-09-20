@@ -1,8 +1,14 @@
 ## [2022-02-17 Meetup Event Details](https://www.meetup.com/newcastle-upon-tyne-data-science-meetup/events/283194654/)
 
+### Schedule
+
 **1800--1830h**: Refreshments
+
 **1830--1900h**: Sophie Harbisher, Kani Payments
+
 **1915--2000h**: Joe Matthews, Newcastle University
+
+### Talks
 
 **Sophie Harbisher, Kani Payments**
 
@@ -25,4 +31,3 @@ sources.
 **Joe Matthews, Newcastle University**
 
 Using Shiny to Deliver Research Impact
-
