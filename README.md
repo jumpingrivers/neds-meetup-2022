@@ -13,9 +13,8 @@ entrepreneurs. We meet at The Catalyst in Newcastle upon Tyne.
 
 We are sponsored by:
 
- - [Jumping Rivers](https://www.jumpingrivers.com/), an analytics company whose
-    passion is data and machine learning.
+- [Jumping Rivers](https://www.jumpingrivers.com/), an analytics company whose passion is data and machine learning.
 
- - [The National Innovation Centre for Data (NICD)](https://www.nicd.org.uk/)
+- [The National Innovation Centre for Data (NICD)](https://www.nicd.org.uk/)
 
- - [The R Consortium](https://www.r-consortium.org/)
+- [The R Consortium](https://www.r-consortium.org/)
