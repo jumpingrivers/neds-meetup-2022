@@ -6,7 +6,9 @@
 
 **1800--1830h**: Refreshments
 
-**1830--1900h**: Andrew Patterson, Jumping Rivers
+**1830--1835h**: [Welcome](./2022-05-26-welcome.pdf)
+
+**1835--1900h**: Andrew Patterson, Jumping Rivers
 
 **1915--2000h**: Michael Reeve, Hiscox
 
