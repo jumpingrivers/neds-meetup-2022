@@ -21,7 +21,7 @@ machine learning interpretability all within a user-friendly interface.
 
 **Jack Walton, Data Scientist / Engineer @ Jumping Rivers**
 
-_Scaling R with AWS Lambda_
+[_Scaling R with AWS Lambda_](./2022-09-15-scaling-r-with-aws-lambda.pdf)
 
 In this talk I will give an overview of a recent client project in which AWS
 Lambda was used to provide a scalable R-backend for a public-facing web
@@ -34,7 +34,7 @@ All the code used in this project is [publicly available via GitHub](https://git
 
 **Matthew Edwards, Data Scientist @ National Innovation Centre for Data**
 
-_Databricks: Believing in Unicorns_
+[_Databricks: Believing in Unicorns_](./2022-09-15-databricks-believing-in-unicorns.pdf)
 
 Data science unicorns can develop data pipelines to clean and wrangle data;
 develop statistical and machine learning models for estimation and prediction;

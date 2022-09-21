@@ -24,7 +24,7 @@ and so you need not install any additional softwares to your laptop.
 
 **Myles Mitchell, Data Scientist & Trainer @ Jumping Rivers**
 
-_Comparing package releases with diffify.com_
+[_Comparing package releases with diffify.com_](./2022-07-14-comparing-package-releases-with-diffify.pdf)
 
 Say you were using a particular version of a package in a project and now a new
 version is available. With Diffify you are easily able to check what has been
