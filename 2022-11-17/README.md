@@ -6,7 +6,7 @@
 
 **1800--1830h**: Refreshments
 
-**1830--1835h**: Welcome ([slides 🔗](./2022-11-17-welcome.pdf))
+**1830--1835h**: Welcome ([🔗 slides](./2022-11-17-welcome.pdf))
 
 **1835--1900h**: [Andrew Blance](https://www.linkedin.com/in/andrew-blance/),
 Waterstons

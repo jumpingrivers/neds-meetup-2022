@@ -6,7 +6,7 @@
 
 **1800--1830h**: Refreshments
 
-**1830--1835h**: Welcome ([slides 🔗](./2022-07-14-welcome.pdf))
+**1830--1835h**: Welcome ([🔗 slides](./2022-07-14-welcome.pdf))
 
 **1835--1900h**: Myles Mitchell, Jumping Rivers Ltd
 
@@ -26,7 +26,7 @@ and so you need not install any additional softwares to your laptop.
 
 **Myles Mitchell, Data Scientist & Trainer @ Jumping Rivers**
 
-_Comparing package releases with diffify.com_ ([slides 🔗](./2022-07-14-comparing-package-releases-with-diffify.pdf))
+_Comparing package releases with diffify.com_ ([🔗 slides](./2022-07-14-comparing-package-releases-with-diffify.pdf))
 
 Say you were using a particular version of a package in a project and now a new
 version is available. With Diffify you are easily able to check what has been
