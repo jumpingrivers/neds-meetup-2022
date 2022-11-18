@@ -5,11 +5,16 @@ This repository holds the slides used in talks delivered in 2022 at the
 
 ## The Event
 
-We are North East Data Scientists, and we love all things data!
+_We are the North East Data Scientists, and we love all things data!_
 
-Our community meets six times a year to host our own speakers, and to network
-with like-minded data scientists, software developers, students, engineers, and
-entrepreneurs. We meet at The Catalyst in Newcastle upon Tyne.
+We are an inclusive community which meets six times a year to listen to talks
+from data innovators, experts, and enthusiasts, as well as to learn about the
+latest data science tools and technologies with hands-on-workshops!
+
+All our events are free-to-attend, and are a great opportunity to network with
+like-minded data professionals, software developers, students, engineers, and
+entrepreneurs. We meet in [the award-winning Catalyst building](https://www.google.com/maps/place//data=!4m2!3m1!1s0x487e774a8501fda7:0x4e28e58fc4ec60fb?source=g.page.share)
+in Newcastle upon Tyne.
 
 We are sponsored by:
 
@@ -21,7 +26,7 @@ We are sponsored by:
 
 ### 2022 Events Summary
 
-| **Month**                                       | **Speaker**                                                  | **Company / Institute / Body**                               | **Title**                                                    |
+| **Event Details**                                       | **Speaker**                                                  | **Company / Institute / Body**                               | **Talk Title**                                                    |
 | ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [February (2022-02-17)](/2022-02-17/README.md)  | [Sophie Harbisher](https://www.linkedin.com/in/sophie-harbisher-28a009135/) | [Kani Payments](https://kanipayments.com/)                   | [Data challenges in the payments industry](/2022-02-17/2022-02-17-financial-data-reconciliation.pdf) |
 |                                                 | [Joe Matthews](https://www.linkedin.com/in/joe-matthews-67a786a5/) | [Newcastle University](https://www.ncl.ac.uk/)               | Using Shiny to Deliver Research Impact                       |

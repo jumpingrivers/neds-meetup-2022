@@ -6,7 +6,7 @@
 
 **1800--1830h**: Refreshments
 
-**1830--1835h**: [Welcome](./2022-05-26-welcome.pdf)
+**1830--1835h**: Welcome ([🔗 slides](./2022-05-26-welcome.pdf))
 
 **1835--1900h**: Andrew Patterson, Jumping Rivers
 
@@ -26,7 +26,7 @@ install any additional softwares to your laptop.
 
 **Andrew Patterson, Data Engineer @ Jumping Rivers**
 
-[_What happens now? - The day after deployment_](./2022-05-26-shiny-in-production-what-happens-now.pdf)
+_What happens now? - The day after deployment_ ([🔗 slides](./2022-05-26-shiny-in-production-what-happens-now.pdf))
 
 Congratulations, you’ve made a lovely shiny app, configured it and deployed it
 in the cloud, job done.What happens now? How do you keep your shiny server,

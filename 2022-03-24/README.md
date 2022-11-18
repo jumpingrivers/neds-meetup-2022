@@ -12,7 +12,7 @@
 
 **Laura Wadkin, Research Associate @ Newcastle University**
 
-[_Using data to develop mathematical models for biological systems_](./2022-03-24-data-to-develop-models-for-bio-systems.pdf)
+_Using data to develop mathematical models for biological systems_ ([🔗 slides](./2022-03-24-data-to-develop-models-for-bio-systems.pdf))
 
 There are many biological systems requiring the development of descriptive and
 predictive mathematical models (ranging from cellular systems to ocean

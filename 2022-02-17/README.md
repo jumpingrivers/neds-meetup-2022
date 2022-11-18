@@ -12,7 +12,7 @@
 
 **Sophie Harbisher, Kani Payments**
 
-[_Data challenges in the payments industry_](./2022-02-17-financial-data-reconciliation.pdf)
+_Data challenges in the payments industry_ ([🔗 slides](./2022-02-17-financial-data-reconciliation.pdf))
 
 Everyone understands transactions - you ask the barista for a cup of coffee,
 tap your card, get your coffee and a couple of days later the money goes out of

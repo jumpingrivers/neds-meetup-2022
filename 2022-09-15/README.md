@@ -1,14 +1,19 @@
 ## [2022-09-15 Meetup Event Details](https://www.meetup.com/newcastle-upon-tyne-data-science-meetup/events/287120959/)
 
+### Schedule
+
 **1700--1800h**: (Pre-event Workshop) [Georgia Atkinson](https://www.linkedin.com/in/georgia-atkinson-080858197/)
 
 **1800--1830h**: Refreshments
 
-**1830--1835h**: [Welcome](./2022-09-15-welcome.pdf)
+**1830--1835h**: Welcome ([slides 🔗](./2022-09-15-welcome.pdf))
 
-**1835--1900h**: Speaker 1, [Jack Walton](https://www.linkedin.com/in/jwalton93/)
+**1835--1900h**: [Jack Walton](https://www.linkedin.com/in/jwalton93/), Jumping
+Rivers Ltd
 
-**1915--2000h**: Speaker 2, [Matthew Edwards](https://www.linkedin.com/in/matthew-edwards-930573193/)
+**1915--2000h**: [Matthew Edwards](https://www.linkedin.com/in/matthew-edwards-930573193/), NICD
+
+### Talks
 
 **Georgia Atkinson, Data Scientist and Trainer @ Jumping Rivers**
 
@@ -23,7 +28,7 @@ machine learning interpretability all within a user-friendly interface.
 
 **Jack Walton, Data Scientist / Engineer @ Jumping Rivers**
 
-[_Scaling R with AWS Lambda_](./2022-09-15-scaling-r-with-aws-lambda.pdf)
+_Scaling R with AWS Lambda_ ([slides 🔗](./2022-09-15-scaling-r-with-aws-lambda.pdf))
 
 In this talk I will give an overview of a recent client project in which AWS
 Lambda was used to provide a scalable R-backend for a public-facing web
@@ -36,7 +41,7 @@ All the code used in this project is [publicly available via GitHub](https://git
 
 **Matthew Edwards, Data Scientist @ National Innovation Centre for Data**
 
-[_Databricks: Believing in Unicorns_](./2022-09-15-databricks-believing-in-unicorns.pdf)
+_Databricks: Believing in Unicorns_ ([slides 🔗](./2022-09-15-databricks-believing-in-unicorns.pdf))
 
 Data science unicorns can develop data pipelines to clean and wrangle data;
 develop statistical and machine learning models for estimation and prediction;
