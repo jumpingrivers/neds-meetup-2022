@@ -29,7 +29,7 @@ clean data; build, evaluate and tune models; and deploy them into production.
 
 **Andrew Blance, Data Scientist @ Waterstons**
 
-_Getting Insight from Anything_ (([🔗 slides](./2022-11-17-insights-from-anything.pdf)))
+_Getting Insight from Anything_ ([🔗 slides](./2022-11-17-insights-from-anything.pdf))
 
 The drive to make data-driven decisions shapes the strategy of many companies.
 However, this dream has a problem: just because you need to make a decision
